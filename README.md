@@ -1,10 +1,6 @@
 # Log-Analyser-V2
 This is version 2 of the log analyser.
-
-# Log Analyser V2
-
 A Python-based security log analyser that processes login events and generates a simple security report.
-
 The analyser reads a log file, counts successful and failed login attempts, identifies failed logins by IP address and username, and flags IP addresses with multiple failed login attempts as suspicious.
 
 ## Features
